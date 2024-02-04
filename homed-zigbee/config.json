@@ -9,15 +9,8 @@
     "aarch64",
     "armv7"
   ],
-  "devices": [
-    "/dev/ttyUSB0",
-    "/dev/ttyUSB1",
-    "/dev/ttyACM0",
-    "/dev/ttyACM1",
-    "/dev/ttyAMA0",
-    "/dev/ttyAMA1"
-  ],
   "map": [
     "all_addon_configs:rw"
-  ]
+  ],
+  "uart": true
 }
