@@ -1,6 +1,6 @@
 ## Home Assistant Add-on: HOMEd Web
 
-Self-hosted web-interface for HOMEd services
+Self-hosted web-interface for HOMEd services.
 
 ![Supports amd64 Architecture][amd64-shield]
 ![Supports aarch64 Architecture][aarch64-shield]
