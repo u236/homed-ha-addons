@@ -1,4 +1,4 @@
-## Home Assistant Add-on: HOMEd ZigBee
+# Home Assistant Add-on: HOMEd ZigBee
 
 Your brand new bridge between ZigBee network and MQTT broker.
 
@@ -10,12 +10,12 @@ Your brand new bridge between ZigBee network and MQTT broker.
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 
-### Полезные ссылки
+## Полезные ссылки
 
 - [описание и документация](https://wiki.homed.dev/)
 - [чат проекта в Telegram](https://t.me/homed_zigbee)
 
-### Полезные сведения
+## Конфигурация службы
 
 Файл конфигурации службы хранится на хосте, по пути `addon_configs/homed-zigbee/homed-zigbee.conf`. Для редактирования файла конфигурации можно использовать аддон [File Editor](https://github.com/home-assistant/addons/blob/master/configurator/README.md) с **выключенной** опцией "Enforce Basepath".
 

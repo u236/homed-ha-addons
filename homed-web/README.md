@@ -1,4 +1,4 @@
-## Home Assistant Add-on: HOMEd Web
+# Home Assistant Add-on: HOMEd Web
 
 Self-hosted web-interface for HOMEd services.
 
@@ -10,13 +10,12 @@ Self-hosted web-interface for HOMEd services.
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 
-### Полезные ссылки
+## Полезные ссылки
 
 - [описание и документация](https://wiki.homed.dev/)
 - [чат проекта в Telegram](https://t.me/homed_zigbee)
 
-### Полезные сведения
+## Конфигурация службы
 
 Файл конфигурации службы хранится на хосте, по пути `addon_configs/homed-web/homed-web.conf`. Для редактирования файла конфигурации можно использовать аддон [File Editor](https://github.com/home-assistant/addons/blob/master/configurator/README.md) с **выключенной** опцией "Enforce Basepath".
 
-Для корректной работы веб-интерфейса за пределами локальной сети необходимо обеспечить доступ к TCP-порту `8081` (по умолчанию).
