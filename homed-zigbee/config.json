@@ -10,7 +10,7 @@
     "armv7"
   ],
   "map": [
-    "all_addon_configs:rw"
+    "addon_config:rw"
   ],
   "uart": true
 }

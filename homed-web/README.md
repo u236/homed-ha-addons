@@ -17,5 +17,4 @@ Self-hosted web-interface for HOMEd services.
 
 ## Конфигурация службы
 
-Файл конфигурации службы хранится на хосте, по пути `addon_configs/homed-web/homed-web.conf`. Для редактирования файла конфигурации можно использовать аддон [File Editor](https://github.com/home-assistant/addons/blob/master/configurator/README.md) с **выключенной** опцией "Enforce Basepath".
-
+Файл конфигурации службы хранится на хосте, по пути `/addon_configs/<addon slug>/homed-web.conf`. Для редактирования файла конфигурации можно использовать аддон [File Editor](https://github.com/home-assistant/addons/blob/master/configurator/README.md) с **выключенной** опцией "Enforce Basepath".
