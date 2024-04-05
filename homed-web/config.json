@@ -1,7 +1,7 @@
 {
   "name": "HOMEd Web",
   "description": "HOMEd Web Service Add-on",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "slug": "homed-web",
   "url": "https://wiki.homed.dev/page/Web",
   "arch": [
@@ -12,9 +12,6 @@
   "map": [
     "addon_config:rw"
   ],
-  "ports": {
-    "8081/tcp": 8081
-  },
   "ingress": true,
   "ingress_port": 8081,
   "panel_icon": "mdi:home"
