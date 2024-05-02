@@ -1,4 +1,4 @@
-# Home Assistant Add-on: HOMEd Web
+# Home Assistant Add-on: HOMEd Web For Dummies
 
 Self-hosted web-interface for HOMEd services.
 
