@@ -1,6 +1,6 @@
 # Home Assistant Add-on: HOMEd ZigBee
 
-HOMEd Automation это сервис для автоматизаций, которая позволяет выполнять какие-то действия при возникновении определенных событий, например - включить лампочку, если кто-то нажал на кнопку. Автоматизации работают по принципу триггеры > условия > действия.
+Small and fast service for home automations.
 
 ![Supports amd64 Architecture][amd64-shield]
 ![Supports aarch64 Architecture][aarch64-shield]
@@ -19,4 +19,4 @@ HOMEd Automation это сервис для автоматизаций, кото
 
 Файл конфигурации службы хранится на хосте, по пути `/addon_configs/<addon slug>/homed-automation.conf`. Для редактирования файла конфигурации можно использовать аддон [File Editor](https://github.com/home-assistant/addons/blob/master/configurator/README.md) с **выключенной** опцией "Enforce Basepath".
 
-Файлы с базой данных и актуальными состояниями устройств так же хранятся в директории `/addon_configs/homed-automation` (по умолчанию).
+Файл с базой данных астоматизаций так же хранится в директории `/addon_configs/<addon slug>/homed-automation` (по умолчанию).
