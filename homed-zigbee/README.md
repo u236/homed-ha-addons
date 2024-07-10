@@ -19,4 +19,4 @@ Your brand new bridge between ZigBee network and MQTT broker.
 
 Файл конфигурации службы хранится на хосте, по пути `/addon_configs/<addon slug>/homed-zigbee.conf`. Для редактирования файла конфигурации можно использовать аддон [File Editor](https://github.com/home-assistant/addons/blob/master/configurator/README.md) с **выключенной** опцией "Enforce Basepath".
 
-Файлы с базой данных и актуальными состояниями устройств так же хранятся в директории `/addon_configs/<addon slug>/homed-zigbee` (по умолчанию).
+Файлы с базой данных и актуальными состояниями устройств так же хранятся в директории `/addon_configs/<addon slug>` (по умолчанию).

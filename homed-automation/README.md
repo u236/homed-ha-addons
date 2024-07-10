@@ -1,4 +1,4 @@
-# Home Assistant Add-on: HOMEd ZigBee
+# Home Assistant Add-on: HOMEd Automation
 
 Small and fast service for home automations.
 

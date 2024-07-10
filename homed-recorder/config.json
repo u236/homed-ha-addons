@@ -1,0 +1,15 @@
+{
+  "name": "HOMEd Recorder",
+  "description": "HOMEd Recorder Service Add-on",
+  "version": "1.0.4",
+  "slug": "homed-recorder",
+  "url": "https://wiki.homed.dev/page/Recorder",
+  "arch": [
+    "amd64",
+    "aarch64",
+    "armv7"
+  ],
+  "map": [
+    "addon_config:rw"
+  ]
+}
