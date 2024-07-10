@@ -12,11 +12,11 @@ Small and fast service for home automations.
 
 ## Полезные ссылки
 
-- [описание и документация](https://wiki.homed.dev/)
+- [описание и документация](https://wiki.homed.dev/page/Automation)
 - [чат проекта в Telegram](https://t.me/homed_zigbee)
 
 ## Конфигурация службы
 
 Файл конфигурации службы хранится на хосте, по пути `/addon_configs/<addon slug>/homed-automation.conf`. Для редактирования файла конфигурации можно использовать аддон [File Editor](https://github.com/home-assistant/addons/blob/master/configurator/README.md) с **выключенной** опцией "Enforce Basepath".
 
-Файл с базой данных астоматизаций так же хранится в директории `/addon_configs/<addon slug>/homed-automation` (по умолчанию).
+Файл с базой данных астоматизаций так же хранится в директории `/addon_configs/<addon slug>/` (по умолчанию).

@@ -12,11 +12,11 @@ SQLite 3 based data logger for HOMEd services.
 
 ## Полезные ссылки
 
-- [описание и документация](https://wiki.homed.dev/)
+- [описание и документация](https://wiki.homed.dev/page/Recorder)
 - [чат проекта в Telegram](https://t.me/homed_zigbee)
 
 ## Конфигурация службы
 
 Файл конфигурации службы хранится на хосте, по пути `/addon_configs/<addon slug>/homed-recoder.conf`. Для редактирования файла конфигурации можно использовать аддон [File Editor](https://github.com/home-assistant/addons/blob/master/configurator/README.md) с **выключенной** опцией "Enforce Basepath".
 
-Файл с базы данных так же хранится в директории `/addon_configs/<addon slug>` (по умолчанию).
+Файл с базы данных так же хранится в директории `/addon_configs/<addon slug>/` (по умолчанию).
