@@ -1,7 +1,7 @@
 {
   "name": "HOMEd Automation",
   "description": "HOMEd Automation Service Add-on",
-  "version": "1.5.9",
+  "version": "1.5.10",
   "slug": "homed-automation",
   "url": "https://wiki.homed.dev/page/Automation",
   "arch": [
