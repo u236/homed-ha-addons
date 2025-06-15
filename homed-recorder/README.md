@@ -13,7 +13,7 @@ SQLite 3 based data logger for HOMEd services.
 ## Полезные ссылки
 
 - [описание и документация](https://wiki.homed.dev/page/Recorder)
-- [чат проекта в Telegram](https://t.me/homed_zigbee)
+- [канал проекта в Telegram](https://t.me/homed_info)
 
 ## Конфигурация службы
 

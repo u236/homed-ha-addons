@@ -13,7 +13,7 @@ Small and fast service for home automations.
 ## Полезные ссылки
 
 - [описание и документация](https://wiki.homed.dev/page/Automation)
-- [чат проекта в Telegram](https://t.me/homed_zigbee)
+- [канал проекта в Telegram](https://t.me/homed_info)
 
 ## Конфигурация службы
 

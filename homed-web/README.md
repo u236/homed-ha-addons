@@ -13,7 +13,7 @@ Self-hosted web-interface for HOMEd services.
 ## Полезные ссылки
 
 - [описание и документация](https://wiki.homed.dev/page/Web)
-- [чат проекта в Telegram](https://t.me/homed_zigbee)
+- [канал проекта в Telegram](https://t.me/homed_info)
 
 ## Конфигурация службы
 
