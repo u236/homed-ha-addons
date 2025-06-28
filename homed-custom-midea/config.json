@@ -1,0 +1,16 @@
+{
+  "name": "HOMEd Custom-Midea",
+  "description": "HOMEd Custom-Midea Service Add-on",
+  "version": "1.0.4",
+  "slug": "homed-custom-midea",
+  "url": "https://wiki.homed.dev/page/Custom-Midea",
+  "arch": [
+    "amd64",
+    "aarch64",
+    "armv7"
+  ],
+  "map": [
+    "addon_config:rw"
+  ],
+  "uart": true
+}
