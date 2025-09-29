@@ -3,7 +3,7 @@
   "description": "HOMEd Automation Service Add-on",
   "version": "2.2.4",
   "slug": "homed-automation",
-  "url": "https://wiki.homed.dev/page/Automation",
+  "url": "https://wiki.homed.dev/automation/",
   "arch": [
     "amd64",
     "aarch64",
