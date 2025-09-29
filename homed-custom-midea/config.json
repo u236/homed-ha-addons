@@ -3,7 +3,7 @@
   "description": "HOMEd Custom-Midea Service Add-on",
   "version": "1.0.4",
   "slug": "homed-custom-midea",
-  "url": "https://wiki.homed.dev/page/Custom-Midea",
+  "url": "https://wiki.homed.dev/custom/midea/",
   "arch": [
     "amd64",
     "aarch64",
