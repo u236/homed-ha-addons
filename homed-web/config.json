@@ -3,7 +3,7 @@
   "description": "HOMEd Web Service Add-on",
   "version": "2.8.6",
   "slug": "homed-web",
-  "url": "https://wiki.homed.dev/page/Web",
+  "url": "https://wiki.homed.dev/web/",
   "arch": [
     "amd64",
     "aarch64",
