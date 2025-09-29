@@ -3,7 +3,7 @@
   "description": "HOMEd Cloud Service Add-on",
   "version": "1.0.7",
   "slug": "homed-cloud",
-  "url": "https://wiki.homed.dev/page/Cloud",
+  "url": "https://wiki.homed.dev/cloud/",
   "arch": [
     "amd64",
     "aarch64",
