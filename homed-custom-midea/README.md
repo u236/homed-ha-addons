@@ -12,7 +12,7 @@ Midea protocol based devices gateway for HOMEd Custom service (only Kentatsu Nob
 
 ## Полезные ссылки
 
-- [описание и документация](https://wiki.homed.dev/page/Custom-Midea)
+- [описание и документация](https://wiki.homed.dev/custom/midea/)
 - [канал проекта в Telegram](https://t.me/homed_info)
 
 ## Конфигурация службы
