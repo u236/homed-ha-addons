@@ -12,7 +12,7 @@ Small and fast service for home automations.
 
 ## Полезные ссылки
 
-- [описание и документация](https://wiki.homed.dev/page/Automation)
+- [описание и документация](https://wiki.homed.dev/automation/)
 - [канал проекта в Telegram](https://t.me/homed_info)
 
 ## Конфигурация службы

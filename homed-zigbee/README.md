@@ -12,7 +12,7 @@ Your brand new bridge between ZigBee network and MQTT broker.
 
 ## Полезные ссылки
 
-- [описание и документация](https://wiki.homed.dev/page/ZigBee)
+- [описание и документация](https://wiki.homed.dev/zigbee/)
 - [канал проекта в Telegram](https://t.me/homed_info)
 
 ## Конфигурация службы

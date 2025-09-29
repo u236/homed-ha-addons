@@ -12,7 +12,7 @@ Custom and virtual devices service for HOMEd.
 
 ## Полезные ссылки
 
-- [описание и документация](https://wiki.homed.dev/page/Custom)
+- [описание и документация](https://wiki.homed.dev/custom/)
 - [канал проекта в Telegram](https://t.me/homed_info)
 
 ## Конфигурация службы

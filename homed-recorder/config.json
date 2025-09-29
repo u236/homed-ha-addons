@@ -3,7 +3,7 @@
   "description": "HOMEd Recorder Service Add-on",
   "version": "1.0.8",
   "slug": "homed-recorder",
-  "url": "https://wiki.homed.dev/page/Recorder",
+  "url": "https://wiki.homed.dev/recorder/",
   "arch": [
     "amd64",
     "aarch64",
