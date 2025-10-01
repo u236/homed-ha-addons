@@ -12,7 +12,7 @@ Client part for HOMEd Cloud Server.
 
 ## Полезные ссылки
 
-- [описание и документация](https://wiki.homed.dev/page/Cloud)
+- [описание и документация](https://wiki.homed.dev/cloud/)
 - [канал проекта в Telegram](https://t.me/homed_info)
 
 ## Конфигурация службы
