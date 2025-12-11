@@ -1,7 +1,7 @@
 {
   "name": "HOMEd Cloud",
   "description": "HOMEd Cloud Service Add-on",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "slug": "homed-cloud",
   "url": "https://wiki.homed.dev/cloud/",
   "arch": [

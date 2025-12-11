@@ -1,7 +1,7 @@
 {
   "name": "HOMEd Recorder",
   "description": "HOMEd Recorder Service Add-on",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "slug": "homed-recorder",
   "url": "https://wiki.homed.dev/recorder/",
   "arch": [
