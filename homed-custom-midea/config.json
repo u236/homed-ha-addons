@@ -1,7 +1,7 @@
 {
   "name": "HOMEd Custom-Midea",
   "description": "HOMEd Custom-Midea Service Add-on",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "slug": "homed-custom-midea",
   "url": "https://wiki.homed.dev/custom/midea/",
   "arch": [
