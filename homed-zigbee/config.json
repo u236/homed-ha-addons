@@ -1,7 +1,7 @@
 {
   "name": "HOMEd ZigBee",
   "description": "HOMEd ZigBee Service Add-on",
-  "version": "3.15.1",
+  "version": "3.15.2",
   "slug": "homed-zigbee",
   "url": "https://wiki.homed.dev/zigbee/",
   "arch": [
