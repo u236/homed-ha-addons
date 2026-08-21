@@ -1,7 +1,7 @@
 {
   "name": "HOMEd Web",
   "description": "HOMEd Web Service Add-on",
-  "version": "2.14.0",
+  "version": "2.15.0",
   "slug": "homed-web",
   "url": "https://wiki.homed.dev/web/",
   "arch": [
