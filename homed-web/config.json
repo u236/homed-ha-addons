@@ -10,7 +10,7 @@
     "armv7"
   ],
   "map": [
-    "addon_config:rw"
+    "app_config:rw"
   ],
   "ingress": true,
   "ingress_port": 8081,

@@ -10,6 +10,6 @@
     "armv7"
   ],
   "map": [
-    "addon_config:rw"
+    "app_config:rw"
   ]
 }
